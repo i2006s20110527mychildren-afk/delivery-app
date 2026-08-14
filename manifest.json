@@ -1,0 +1,8 @@
+{
+  "name": "配送管理アプリ",
+  "short_name": "配送アプリ",
+  "start_url": "delivery-app.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#f5a623"
+}
